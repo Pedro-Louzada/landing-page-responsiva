@@ -1,0 +1,43 @@
+.card-largura{
+    max-width: 18rem;
+}
+
+.imagem-carrosel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 500px;
+}
+
+.carousel-title, .name-logo, .font-receitas{
+    font-family: 'Pacifico', cursive;
+}
+
+.color-especial{
+    color: darkred !important;
+}
+.button-bg{
+    background-color: darkred;
+    color: #fff;
+}
+
+.button-bg:hover{
+    background-color: transparent;
+    color: darkred;
+    border-color: darkred;
+}
+
+.btn-secondary:hover{
+    background: transparent;
+    border-color: #6c757d;
+    color: #6c757d;
+}
+
+.border-color-especial{
+    border-color: darkred;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 200px;
+}
